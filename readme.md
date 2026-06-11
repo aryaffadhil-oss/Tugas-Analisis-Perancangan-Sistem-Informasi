@@ -1,4 +1,4 @@
-# arya fadhiil ramadhan - System Documentation
+# TUGAS APSI PERTEMUAN 9 - System Documentation
 
 MLBB Ticket Hub adalah platform untuk pemesanan dan manajemen tiket pertandingan Mobile Legends: Bang Bang (MLBB). Platform ini mengatur interaksi mulai dari antrean pembelian oleh pelanggan, manajemen data oleh admin, hingga proses *check-in* di lokasi turnamen.
 
