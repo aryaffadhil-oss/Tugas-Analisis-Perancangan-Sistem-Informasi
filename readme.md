@@ -1,4 +1,4 @@
-# MLBB Ticket Hub - System Documentation
+# arya fadhiil ramadhan - System Documentation
 
 MLBB Ticket Hub adalah platform untuk pemesanan dan manajemen tiket pertandingan Mobile Legends: Bang Bang (MLBB). Platform ini mengatur interaksi mulai dari antrean pembelian oleh pelanggan, manajemen data oleh admin, hingga proses *check-in* di lokasi turnamen.
 
@@ -8,7 +8,7 @@ Dokumen ini menjelaskan arsitektur sistem mulai dari interaksi pengguna (Use Cas
 
 ## 1. Use Case Diagram: Interaksi Aktor dengan Sistem
 
-![Use Case Diagram](images/UseCase.png)
+![Use Case Diagram](images/UseCase.jpeg)
 
 Diagram Use Case memetakan siapa saja yang menggunakan sistem dan fitur apa saja yang dapat mereka akses. Terdapat tiga aktor utama dalam platform ini:
 
@@ -33,7 +33,7 @@ Diagram Use Case memetakan siapa saja yang menggunakan sistem dan fitur apa saja
 
 ## 2. Activity Diagram: Alur Proses Pembelian Tiket
 
-![Activity Diagram](images/Activity.png)
+![Activity Diagram](images/Activity.jpeg)
 
 Activity Diagram ini memodelkan alur kerja sistem dari sudut pandang pengguna (Pelanggan) saat melakukan proses pembelian tiket secara *end-to-end*:
 
@@ -49,7 +49,7 @@ Activity Diagram ini memodelkan alur kerja sistem dari sudut pandang pengguna (P
 
 ## 3. Entity Relationship Diagram (ERD): Struktur Basis Data
 
-![ERD](images/ERD.png)
+![ERD](images/ERD.jpeg)
 
 ERD ini memetakan struktur basis data yang digunakan oleh sistem untuk menyimpan dan mengelola informasi relasional:
 
@@ -64,7 +64,7 @@ ERD ini memetakan struktur basis data yang digunakan oleh sistem untuk menyimpan
 
 ## 4. BPMN: Alur Proses Lintas Fungsi
 
-![BPMN Diagram](images/BPMN.png)
+![BPMN Diagram](images/Bpmn.jpeg)
 
 Diagram BPMN (Business Process Model and Notation) ini membagi proses bisnis ke dalam beberapa *swimlane* untuk memperjelas tanggung jawab masing-masing pihak:
 
